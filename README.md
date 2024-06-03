@@ -159,6 +159,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 Ellis Ayikwei - [Github](https://github.com/Ellis-Ayikwei) / [Twitter](https://x.com/Ellis_Rkf)
+Benjamin Torfu - [Github](https://github.com/gameli-lab) / [X](x.com/TorfuBenjamin)
 
 Second part of Airbnb: Joann Vuong
 ## License
