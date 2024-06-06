@@ -37,6 +37,29 @@
     text-align: center;
     margin-top: 0;
 }
+
+.places .reviews {
+    
+    align-items: center;
+    align-content: center;
+} 
+
+.places .reviews h2{
+    display: block;
+    margin: 0;
+    align-content: center;
+    align-items: center;
+}
+
+.reviews span.display,
+.reviews h2 {
+  display: inline-block;
+}
+.places .reviews .display{
+    float: right;
+    top: 0;
+    transform: translateY(-25px);
+}
 .title_box {
     display: flex;
     justify-content: space-between;

@@ -90,7 +90,7 @@ button:hover {
     padding: 4px;
     padding-left: 10px;
 }
-.popover ul li input[type="checkbox"]{
+ input[type="checkbox"]{
     float: left;
     margin-left: 10px;
 }
